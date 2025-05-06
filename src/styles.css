@@ -1,0 +1,22 @@
+.page {
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
